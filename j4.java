@@ -1,10 +1,10 @@
 public class j4{
-  public static void main (string [] args)
+  public static void main (String [] args)
   {
     int a,b,ans;
     a=10;
     b=20;
     ans=a+b;
-    system.out.print("addition of two number is"+ans);
+    System.out.print("addition of two number is"+ans);
   }
 }
